@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 #print the ip 5 times
 if [ "$#" -ne 1 ]
     then
